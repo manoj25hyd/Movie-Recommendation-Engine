@@ -27,3 +27,5 @@
 
 **Output:**
 ![](output.jpg)
+![](output2.jpg)
+![](output3.jpg)
