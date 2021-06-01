@@ -25,3 +25,5 @@
 
 **The Recommendation Built is Content Based Recommendation**
 
+**Output:**
+![](output.jpg)
